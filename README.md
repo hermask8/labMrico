@@ -1,2 +1,0 @@
-# labMrico
-Laboratorio Microprogramación
